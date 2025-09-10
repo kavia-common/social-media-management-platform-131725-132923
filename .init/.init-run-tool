@@ -1,0 +1,4 @@
+{
+    "command": "npm start -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/social-media-management-platform-131725-132923/automation_frontend"
+}
